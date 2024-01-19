@@ -1,0 +1,51 @@
+/*?Mobile============== */
+.search-icon{
+  background: #7c7c7c2b;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  transition: 0.3s ease-in-out;
+}
+
+.w-input{
+  width: 15rem;
+}
+
+.box i {
+  font-size: 12px;
+}
+
+.fs-3{
+  font-size: calc(1.1rem + 0.6vw) !important;
+}
+
+.fs-1{
+  font-size: calc(1.200rem + 1.5vw) !important;
+}
+
+p{
+  font-size: 14px;
+}
+/*?Mobile===================== */
+
+/** ==============Laptop */
+.search-icon{
+  background: #7c7c7c2b;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  transition: 0.3s ease-in-out;
+}
+
+.w-input{
+  width: 20rem;
+}
+
+
+
+
+
+
+
+
+/** ==============Laptop */

@@ -1,0 +1,53 @@
+
+@media (min-width: 768px) { 
+  .fs-3{
+    font-size: calc(1.5rem + 0.6vw) !important;
+  }
+  
+  .fs-1{
+    font-size: calc(1.450rem + 1.5vw) !important;
+  }
+  
+  p{
+    font-size: 16px;
+  }
+  }
+
+    /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+  .fs-3{
+    font-size: calc(1.3rem + 0.6vw) !important;
+  }
+  
+  .fs-1{
+    font-size: calc(1.300rem + 1.5vw) !important;
+  }
+  
+  p{
+    font-size: 16px;
+  }
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
